@@ -1,5 +1,8 @@
 # moneyIO-backend
 
+Powered by : Google appengine - Spring - Maven
+
+
 `cd moneyIO-backend`
 
 `mvn clean install`
